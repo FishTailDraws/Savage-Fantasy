@@ -56,7 +56,7 @@ jobs:
             fi
           done
           cp index.md .site_content/ || true
-          cp -r .overrides .site_content/
+          cp -r .overrides .site_content/ || true
           
           echo "Files containing #publish-me (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
 
