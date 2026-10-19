@@ -57,7 +57,7 @@ jobs:
           done
           cp index.md .site_content/ || true
           # cp -r .overrides .site_content/
-          cp -r .site_content/
+          cp -r .site_content/*
           echo "Files containing #publish-me (excluding excluded folders), index.md, and .overrides have been copied to .site_content/"
 
       # Step 5: Preprocess Obsidian Features
