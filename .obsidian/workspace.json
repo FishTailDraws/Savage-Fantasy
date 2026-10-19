@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savage Fantasy Campaign/Loactions/Arcopoli.md",
+                "file": "Savage Fantasy Campaign/Campaign Notes/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcopoli"
+              "title": "Session 1"
             }
           }
         ]
@@ -206,23 +206,23 @@
   },
   "active": "d26abbef25a95983",
   "lastOpenFiles": [
+    "New folder",
+    "Savage Fantasy Campaign/PCs/Nick's Character.md",
+    "Savage Fantasy Campaign/Campaign Notes/Session 1.md",
+    "Savage Fantasy Campaign/PCs/Neon's Character.md",
+    "Savage Fantasy Campaign/Savage Fantasy.md",
+    "Savage Fantasy Campaign/Loactions/Arcopoli.md",
     "Savage Fantasy Campaign/Campaign Notes",
     "deploy.yml",
     "extra.css",
     "Savage Fantasy Campaign/Loactions/Srouis.md",
-    "Savage Fantasy Campaign/PCs/Neon's Character.md",
-    "Savage Fantasy Campaign/PCs/Nick's Character.md",
-    "Savage Fantasy Campaign/Savage Fantasy.md",
-    "Savage Fantasy Campaign/Loactions/Arcopoli.md",
     "github page/docs/index.md",
     "Savage Fantasy Notes",
-    "New folder",
     "extra.txt",
     "New Text Document.txt",
     "mkdocs.yml",
     "github page/docs",
     "github page/mkdocs.yml",
-    "github page",
     "Hessien.md",
     "Welcome.md"
   ]
