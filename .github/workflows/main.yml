@@ -4,7 +4,7 @@
 name: Build and Deploy MkDocs Site
 
 on:
-  push:
+  workflow_dispatch:
     branches:
       - main
 
