@@ -1,0 +1,14 @@
+site_name: Savage Fantasy Wiki
+site_url: https://FishTailDraws.github.io/Savage-Fantasy
+site_author: FishTail
+site_description: A wiki meant to house the lore of the Savage Fantasy TTRP
+
+extra_css:
+  - extra.css
+
+theme:
+  font:  Macondo Swash Caps
+  palette:
+    scheme: custom
+    primary: red
+    accent: amber

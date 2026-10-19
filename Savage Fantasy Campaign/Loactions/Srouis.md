@@ -35,3 +35,5 @@ In the past, this borough was used to contain citizens who had plague or leprosy
 This part of the city has the highest percentage of [[Beastfolk]] living within. As more move to Srouis in search of employment, many are doomed to live in this forlorn district.
 
 The Heart of Stone is a battleground between the Scarred Eye and Almond Branch, as neither has claimed complete dominion there yet.
+
+#publish-me
