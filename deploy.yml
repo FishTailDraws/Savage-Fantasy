@@ -4,7 +4,7 @@
 name: Build and Deploy MkDocs Site
 
 on:
-  push:
+  workflow_dispatch:
     branches:
       - main
 
@@ -37,7 +37,7 @@ jobs:
         run: |
           mkdir -p .site_content
           # Define excluded folders that should never be published
-          EXCLUSION=("Campaign Notes" "Private" "Templates")
+          EXCLUSION=("Campaign Notes")
           
           find . -type f -exec grep -l "#publish-me" {} \; | while IFS= read -r file; do
             # Check if file is in an excluded folder
