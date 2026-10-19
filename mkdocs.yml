@@ -12,3 +12,5 @@ theme:
     scheme: custom
     primary: red
     accent: amber
+
+docs_dir: .site_content
