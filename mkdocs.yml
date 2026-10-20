@@ -8,7 +8,8 @@ extra_css:
 
 theme:
   name: material
-  font:  Macondo Swash Caps
+  font:
+    text: Macondo Swash Caps
   palette:
     scheme: custom
     primary: red
