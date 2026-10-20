@@ -7,7 +7,7 @@ extra_css:
   extra.css
 
 theme:
-  name: savagefantasy
+  name: material
   font:  Macondo Swash Caps
   palette:
     scheme: custom
