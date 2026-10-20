@@ -4,10 +4,10 @@ site_author: FishTail
 site_description: A wiki meant to house the lore of the Savage Fantasy TTRP
 
 extra_css:
-  - extra.css
+  extra.css
 
 theme:
-  name: material
+  name: savagefantasy
   font:  Macondo Swash Caps
   palette:
     scheme: custom
